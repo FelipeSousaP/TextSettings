@@ -1,0 +1,14 @@
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\bin\Debug\net8.0\TextSetting1_0.exe
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\bin\Debug\net8.0\TextSetting1_0.deps.json
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\bin\Debug\net8.0\TextSetting1_0.runtimeconfig.json
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\bin\Debug\net8.0\TextSetting1_0.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\bin\Debug\net8.0\TextSetting1_0.pdb
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.AssemblyInfoInputs.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.AssemblyInfo.cs
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.csproj.CoreCompileInputs.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\refint\TextSetting1_0.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.pdb
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.genruntimeconfig.cache
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\ref\TextSetting1_0.dll
