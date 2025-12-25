@@ -1,0 +1,28 @@
+# Visual Studio Cache e Configurações
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pastas de Build (Binários compilados)
+[Bb]in/
+[Oo]bj/
+
+# Pacotes NuGet (são restaurados automaticamente)
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Arquivos de Log e Temporários
+*.log
+TestResults/
+.metadata/
+
+# Publicação (Publish)
+*.publish.htm
+app.publish/
+
+# Segredos e Configurações Locais
+usersecrets.json
+appsettings.Development.json

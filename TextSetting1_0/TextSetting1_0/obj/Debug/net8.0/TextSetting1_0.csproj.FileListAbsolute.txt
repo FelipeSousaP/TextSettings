@@ -12,3 +12,4 @@ C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSettin
 C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.pdb
 C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.genruntimeconfig.cache
 C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\ref\TextSetting1_0.dll
+C:\Users\comff\OneDrive\Documentos\GitHub\TextSettings\TextSetting1_0\TextSetting1_0\obj\Debug\net8.0\TextSetting1_0.sourcelink.json

@@ -1,2 +1,3 @@
 ﻿using TextSetting1_0;
-TextManeger.Escrita("sasdessasda", 300);
+
+TextSetting.Sentence("dsadsa",20, 5,ConsoleColor.Magenta,true);
