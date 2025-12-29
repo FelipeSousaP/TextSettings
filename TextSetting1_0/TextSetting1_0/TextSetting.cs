@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-namespace TextSetting1_0
+﻿namespace TextSetting1_0
 {
     public class TextSetting
     {
@@ -8,6 +6,9 @@ namespace TextSetting1_0
         private static int _delay;
         private static int _top;
         private static ConsoleColor _Color;
+        private static string[] strings;
+        private static string _PalavraCentralizada = "";
+
         static public void Sentence(string escrever)
         {
             _Frase = escrever;
@@ -79,12 +80,17 @@ namespace TextSetting1_0
         {
             if (centro)
             {
-                string d = Espaço(frase) + frase;
-                ColorText(color, d,delay,descer);
+                strings = frase.Split("\n");
+                for(int i = 0; i < strings.Length; i++)
+                {
+                    string d = strings[i];
+                    _PalavraCentralizada = Espaço(d) + d;
+                    ColorText(color, _PalavraCentralizada,delay,descer + i);
+                }
             }
             else
             {
-                throw new ArgumentException("Para centralizar, a variavel dev ser verdadeira");
+                throw new ArgumentException("Para centralizar, a variavel deve ser verdadeira");
             }        
         }
 
