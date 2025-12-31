@@ -24,8 +24,10 @@ A classe `TextSetting` foi criada para simplificar a interface de usuário em mo
 Copie o arquivo `TextSetting.cs` para o seu projeto e certifique-se de que ele esteja sob o namespace:
 ```csharp
 namespace TextSetting1_0
+```
 
+## Exemplos
+```csharp
 using TextSetting1_0;
-
 TextSetting.Sentence("Bem-vindo ao Sistema!", 50, 2, ConsoleColor.Cyan);
 TextSetting.Sentence("PROJETO FINALIZADO", 30, 10, ConsoleColor.Green, true);
