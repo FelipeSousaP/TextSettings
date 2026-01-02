@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextSetting1_0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ff81221eb7e67f4fea2d6cb9abcf68024ad518c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371bd52b5d8af9b50dd1f2a7bded065f3ca774d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextSetting1_0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextSetting1_0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
